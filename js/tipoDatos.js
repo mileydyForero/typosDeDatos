@@ -16,25 +16,25 @@ console.log(typeof boolean);
 var undefined;
 console.log(typeof undefined);
 
-//null
-// var null= null;
-// console.log(typeof.null);
+null
+var nulo = null;
+console.log(typeof nulo);
 
 //object
-var object ={
-    nombre:'mimi',
-    apellido:"forero"
+var object = {
+    nombre: 'mimi',
+    apellido: "forero"
 }
-
 console.log(typeof object);
 
 //arreglos
-var arreglos = ['html','css','avascript'];
+var arreglos = ['html', 'css', 'avascript'];
 console.log(typeof arreglos);
 
+
 //funcion
-function mifuncion (){
-    
+function mifuncion() {
+
 }
 
 
